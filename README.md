@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on NodeJs (ExpressJS, HapiJS), VueJS
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python Microservices. 
 
 - 👯 I’m looking to collaborate on Projects on NodeJs, Python Flask & Django 
 
@@ -58,4 +58,4 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<footer align='center'>Gracefuly, <br />Subhanjan Adhikary </footer>
